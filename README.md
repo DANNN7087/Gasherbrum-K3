@@ -25,7 +25,7 @@ BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3
 - NEMA17 Motors XYZ
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS/ASA Required)
-- 32 bit controller standard (Single Fysetc Spider, or Fysetc S6 with expander configurations provided, others at your own leasure) - Klipper Highly Recommended
+- 32 bit controller standard (Single Fysetc Spider, or Fysetc S6 with expander configurations provided, others at your own leisure) - Klipper Highly Recommended
 - 24V Power Standard, 48V Power Optional via the ANNEX Constellation Series of Boards
 - AC Heated Bed, MIC6 Plate with Magnetic Build Surface or Glass on Thermal Pads
 - Supports many hotends
